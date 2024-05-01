@@ -24,7 +24,7 @@ SECRET_KEY = "django-insecure-2-1u*ck!)u&+xy9$c*py37au_1z7(!9!dbho4g!^aq!qe1*7^r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sm-backend-api.emmanuelmaunga.dev', '*.emmanuelmaunga.dev', 'localhost', '127.0.0.1']
 
 # Application definition
 
