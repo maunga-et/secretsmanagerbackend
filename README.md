@@ -23,7 +23,7 @@ To get started with Secrets Manager Backend, follow these steps:
 
 ## API Documentation
 
-For detailed documentation on the API endpoints and usage, refer to the API documentation provided on [https://sm-backend-api.emmanuelmaunga.dev](https://sm-backend-api.emmanuelmaunga.dev).
+For detailed documentation on the API endpoints and usage, refer to the API documentation provided on [https://sm-backend-api.emmanuelmaunga.dev/swagger](https://sm-backend-api.emmanuelmaunga.dev/swagger).
 
 ## Contributing
 
